@@ -1,5 +1,19 @@
 # ExperimentLab — A/B Testing & Statistical Decision Support
 
+[![Live Dashboard](https://img.shields.io/badge/Live%20Dashboard-Open%20App-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://experimentlab-ab-testing.streamlit.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Source%20Code-181717?style=flat&logo=github&logoColor=white)](https://github.com/jaymwangi/experimentlab)
+
+**Technologies used**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat&logo=scipy&logoColor=white)
+![statsmodels](https://img.shields.io/badge/statsmodels-4051B5?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+
 ExperimentLab is a statistics-focused data science portfolio project that evaluates whether a new e-commerce landing page changes user conversion rates. It combines data validation, reproducible cleaning, hypothesis testing, confidence intervals, automated tests, and an interactive Streamlit dashboard.
 
 ## Business Problem
