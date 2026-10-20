@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Generated analysis artifacts
+reports/
+
+# Raw source dataset (download separately)
+data/raw/ab_data.csv
